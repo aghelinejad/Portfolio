@@ -10,7 +10,7 @@ This repository contains a portfolio of my selected projects in data science and
 
 - ## Classification
   - ### Fraud Detection
-	- [Detecting fraudulent transactions from a highly imbalanced dataset(Kaggle)](https://github.com/aghelinejad/Data-Science/blob/master/Classification/Fraud_detection/Fraud_Detection_Project.ipynb): Utilized different techniques(i.e., oversampling, undersampling, class_weight parameter) to transform the imbalanced dataset before applying classification model, applied four different classification models to evalue their performnaces, compared the results of different approaches to select best model, applied k-fold croos validation and grid-search methods to optimize the model and maximize its predicting performance
+	- [Detecting fraudulent transactions from a highly imbalanced dataset](https://github.com/aghelinejad/Data-Science/blob/master/Classification/Fraud_detection/Fraud_Detection_Project.ipynb): Utilized different techniques(i.e., oversampling, undersampling, class_weight parameter) to transform the imbalanced dataset before applying classification model, applied four different classification models to evalue their performnaces, compared the results of different approaches to select best model, applied k-fold cross validation and grid-search methods to optimize the model and maximize its predicting performance (The dataset was provided from kaggle website)
   - ### Customer Segmentation
 	- [Classification of a company’s customers based on their socioeconomic status for selective suggestion of products(Udemy)](https://github.com/aghelinejad/Data-Science/tree/master/Classification/Customer-Segmentation): Applied multiple classification models and compared their performances, used dimensionality reduction techniques for Feature Extraction and improving model performance
   - ### Churning Rate Prediction
@@ -28,7 +28,3 @@ This repository contains a portfolio of my selected projects in data science and
 ## Natural Language Processong (NLP)
   - ### Segmentation of Online Reviews
 	- [Segmentation of a company’s online reviews to effectively improve their quality of product(Udemy)](https://github.com/aghelinejad/Data-Science/tree/master/NLP/Online-Reviews): Performed NLP modeling using “bag of words” technique in combination with different classification algorithms, used multiple text cleaning methods to preprocess the data
-
-
-## Time Series Analysis
-  - ### To be added
