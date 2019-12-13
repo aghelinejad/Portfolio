@@ -1,14 +1,13 @@
 # Portfolio
 This repository contains a portfolio of my selected projects in data science and machine learning areas.
 
-## Supervised Learning
-- ## Regression
+## Regression
   - ### Profit Prediction
 	- [Profit prediction of startup companies based on their location and budget allocation to their different departments(Udemy)](https://github.com/aghelinejad/Data-Science/tree/master/Regression/Profit-Prediction): Applied various regression techniques, checked for different assumptions of regression models, performed model validation and selection based on multiple metrics
   - ### Sales Price Prediction
 	- [Predict sales prices of houses in a city based on a large number of features(Kaggle)](https://github.com/aghelinejad/Data-Science/tree/master/Regression/Sales-Prices): Extracted principal variables for modeling using different techniques, utilized Ensemble methods (bagging, gradient boosting and random forest) and Grid Search technique to achieve highest metric score
 
-- ## Classification
+## Classification
   - ### Fraud Detection
 	- [Detecting fraudulent transactions from a highly imbalanced dataset](https://github.com/aghelinejad/Data-Science/blob/master/Classification/Fraud_detection/Fraud_Detection_Project.ipynb): Utilized different techniques(i.e., oversampling, undersampling, class_weight parameter) to transform the imbalanced dataset before applying classification model, applied four different classification models to evalue their performnaces, compared the results of different approaches to select best model, applied k-fold cross validation and grid-search methods to optimize the model and maximize its predicting performance (The dataset was provided from kaggle website)
   - ### Customer Segmentation
@@ -19,8 +18,7 @@ This repository contains a portfolio of my selected projects in data science and
 	- [Predict survival of the Titanic passengers based on their information and their socioeconomic class(Kaggle)](https://github.com/aghelinejad/Data-Science/tree/master/Classification/Survival-Rate): Cleaned the numerical and categorical data for processing, handled missing values for several variables using different Imputation methods, created multiple regression models and optimized them for best performance
 
 
-## Unsupervised Learning
-- ## Clustering
+## Clustering
   - ### Segmentation of Mall Customers
 	- [Geodemographic segmentation of a mall's customers(Udemy)](https://github.com/aghelinejad/Data-Science/tree/master/Clustering/Customer-Segmentation)
 
