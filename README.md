@@ -2,27 +2,16 @@
 This repository contains a portfolio of my selected projects in data science and machine learning areas.
 
 ## Regression
-  - ### Profit Prediction
-	- [Profit prediction of startup companies based on their location and budget allocation to their different departments(Udemy)](https://github.com/aghelinejad/Data-Science/tree/master/Regression/Profit-Prediction): Applied various regression techniques, checked for different assumptions of regression models, performed model validation and selection based on multiple metrics
-	
-  - ### Sales Price Prediction
-	- [Predict sales prices of houses in a city based on a large number of features(Kaggle)](https://github.com/aghelinejad/Data-Science/tree/master/Regression/Sales-Prices): Extracted principal variables for modeling using different techniques, utilized Ensemble methods (bagging, gradient boosting and random forest) and Grid Search technique to achieve highest metric score
+  - ### Price Prediction
+  	- [Price prediction of used cars based on multiple numerical and categorical parameters](https://github.com/aghelinejad/Data-Science/tree/master/Regression/Used%20Cars): Built predictor models with object-oriented programming in Python. Performed EDA, data visualization, data cleaning, feature engineering and feature selection, applied three regression models, used cross-validation for model selection, tuned the best model, and created predictions for test data set (The dataset was provided from kaggle website)
 
 ## Classification
   - ### Fraud Detection
-	- [Detecting fraudulent transactions from a highly imbalanced dataset](https://github.com/aghelinejad/Data-Science/blob/master/Classification/Fraud_detection/Fraud_Detection_Project.ipynb): Utilized different techniques(i.e., oversampling, undersampling, class_weight parameter) to transform the imbalanced dataset before applying classification model, applied four different classification models to evalue their performnaces, compared the results of different approaches to select best model, applied k-fold cross validation and grid-search methods to optimize the model and maximize its predicting performance (The dataset was provided from kaggle website)
-	
-  - ### Customer Segmentation
-	- [Classification of a company’s customers based on their socioeconomic status for selective suggestion of products(Udemy)](https://github.com/aghelinejad/Data-Science/tree/master/Classification/Customer-Segmentation): Applied multiple classification models and compared their performances, used dimensionality reduction techniques for Feature Extraction and improving model performance
-	
-  - ### Churning Rate Prediction
-	- [Geodemographic segmentation of a bank’s customers to predict their churning rate(Udemy)](https://github.com/aghelinejad/Data-Science/tree/master/Classification/Churn-Modeling): Utilized ANN modeling using TensorFlow and Keras libraries in Python, used feature scaling and Label Encoding for data preprocessing, tuned the model parameters at different layers to optimize the model performance
-
+	- [Built a classifier model for detecting fraudulent transactions of a bank's customers](https://github.com/aghelinejad/Data-Science/blob/master/Classification/Fraud_detection/Fraud_Detection_Project.ipynb): Utilized different techniques(i.e., oversampling, undersampling, class_weight parameter) to prepare the imbalanced dataset for modeling, applied four classification models, compared the results of different approaches to select best model, applied k-fold cross validation and grid-search methods to optimize the best model (The dataset was provided from kaggle website)
 
 ## Clustering
-  - ### Segmentation of Mall Customers
+  - ### Customer Segmentation
 	- [Geodemographic segmentation of a mall's customers(Udemy)](https://github.com/aghelinejad/Data-Science/tree/master/Clustering/Customer-Segmentation)
-
 
 ## Natural Language Processong (NLP)
   - ### Segmentation of Online Reviews
