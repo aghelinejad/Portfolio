@@ -1,7 +1,6 @@
 # Portfolio
 This repository contains a portfolio of my selected projects in data science and machine learning areas.
 
-
 ## Regression
   - ### Price Prediction
   	- [Price prediction of used cars based on multiple numerical and categorical parameters](https://github.com/aghelinejad/Data-Science/tree/master/Regression/Used%20Cars): Built predictor models with object-oriented programming in Python. Performed EDA, data visualization, data cleaning, feature engineering and feature selection, applied three regression models, used cross-validation for model selection, tuned the best model, and created predictions for test data set (The dataset was provided from kaggle website)
