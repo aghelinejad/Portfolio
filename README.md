@@ -11,7 +11,3 @@ This repository contains a portfolio of my selected projects in data science and
 ## Classification
   - ### Fraud Detection
 	- [Detecting fraudulent transactions of a bank's customers](https://github.com/aghelinejad/Data-Science/blob/master/Classification/Fraud_detection): Created binary classifier models for fraud detection in a bank's transactions. Utilized different techniques(i.e., oversampling, undersampling, applying class_weight parameter) to prepare the imbalanced dataset for modeling, selected and tuned the best model among 4 classifiers along with best preprocessing approach using cross-validation and grid-search techniques (The dataset was provided from kaggle website)
-
-## Natural Language Processong (NLP)
-  - ### Segmentation of Online Reviews
-	- [Segmentation of a company’s online reviews on their quality of product(Udemy)](https://github.com/aghelinejad/Data-Science/tree/master/NLP/Online-Reviews): Performed NLP modeling using “bag of words” technique in combination with different classification algorithms, used multiple text cleaning methods to preprocess the data
